@@ -40,14 +40,12 @@
 > npm i
 > node run.js
 ```
-# Run Railway
-[![Deploy](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Nanzz681/sc)
 
 # Run On Heroku
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nanzz681/sc)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nanzz681/yh)
 
 
 
